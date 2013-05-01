@@ -6,6 +6,7 @@
 
     <name>PushPlugin</name>
 
+<access origin="*.pushwoosh.com"/>
 	<asset src="www/PushNotification.js" target="PushNotification.js" />
 
 	<platform name="android">
